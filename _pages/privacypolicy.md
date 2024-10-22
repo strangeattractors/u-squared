@@ -1,3 +1,9 @@
+---
+layout: page
+title: Privacy Policy
+include_in_header: false
+---
+
 # Privacy Policy for U^2 by Strange Attractor Technologies Inc.
 
 **Last updated:** October 22, 2024
