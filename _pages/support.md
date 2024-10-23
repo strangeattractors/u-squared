@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Support
-include_in_header: trye
+include_in_header: true
 ---
 
 # Support
