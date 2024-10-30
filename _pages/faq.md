@@ -7,42 +7,42 @@ include_in_header: false
 
 ## Call forwarding
 
-### Why do I have to set up call forwarding?
+**Q: Why do I need to set up call forwarding?**
 
-You have to set up call forwarding to redirect your missed calls to us. For that you have to call special numbers that depend on your carrier. 
+**A:** Call forwarding redirects your missed calls to us. To set it up, you'll need to dial specific numbers that vary by carrier. You can verify if call forwarding is set up correctly by going to **Profile** > **Activate Call Forwarding**.
 
-You can check that call forwarding was set up properly in Profile / Activate Call forwarding. 
+**Q: How can I cancel call forwarding?**
 
-### How do I cancel call forwarding
+**A:** Go to **Profile** > **Activate Call Forwarding** and click "Deactivate."
 
-Go to Profile / Activate Call forwarding and click on "Deactivate"
+**Q: The call forwarding codes didn’t work. How can I set up call forwarding manually?**
 
-### The call forwarding codes didn't work, how can I set up call forwarding manually?
-
-You have to look online on your carrier's website which codes to dial and pick one of the following number to forward to, depending on where you are:
+**A:** Visit your carrier’s website to find the correct codes to dial. Depending on your location, use one of these numbers for call forwarding:
 - USA: +14156875513
 - UK: +447441447694
 - Canada: +14388021842
 
-There are different types of call forwarding (with different codes). You should pick those two:
-- "Conditional Call forwarding" when unanswered
-- "Conditional Call forwarding" when busy
+Different types of call forwarding require different codes. Set up the following two types:
+- "Conditional Call Forwarding" when unanswered
+- "Conditional Call Forwarding" when busy
 
-### My carrier doesn't allow call forwarding, what can I do?
+**Q: What if my carrier doesn’t support call forwarding?**
 
-Unfortunately, U^2 requires a carrier that allows call forwarding.
+**A:** Unfortunately, U² requires a carrier that supports call forwarding.
 
-### Should I set up call forwarding in the settings of my Iphone?
+**Q: Should I enable call forwarding in my iPhone settings?**
 
-No, call forwarding in your Iphone settings should be disabled.
+**A:** No, call forwarding in your iPhone settings should be disabled.
 
-### My carrier allows call forwarding, I've entered the call forwarding codes but call forwarding still doesn't work
+**Q: My carrier allows call forwarding, but it’s still not working. What should I check?**
 
-Make sure that call forwarding is disabled in your iphone settings and that "Live Voicemail" is also disabled.
+**A:** Ensure that call forwarding is disabled in your iPhone settings and that "Live Voicemail" is also turned off.
 
-### How to test if call forwarding is actually working
+**Q: How can I test if call forwarding is working?**
 
-You have two options:
-- Go to Profile > Activate, then click Activate and follow the instructions. Please allow up to one minute for the changes to take effect.
-- Have a friend call you, but do not answer. Ensure that the call goes to the U² voicemail
+**A:** You have two options:
+1. Go to **Profile** > **Activate**, click **Activate**, and follow the instructions. It may take up to one minute for changes to take effect.
+2. Ask a friend to call you, but do not answer. Make sure the call goes to U² voicemail.
+
+
 
