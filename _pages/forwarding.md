@@ -1,11 +1,19 @@
 ---
 layout: page
-title: Conditional call forwarding
+title: Conditional call forwarding manual setup
 include_in_header: false
 ---
 
-## How to activate conditional call forwarding
+## Manually activate conditional call forwarding
 
-- Default voicemail: An enhanced voicemail that takes a message from the caller and sends a push notification with the message, a summary, transcript, audio, and assistance for next steps.
+If you the setup of call forwarding failed in the app, you have to set it up manually outside the app.
 
-- Clone voicemail: Your clone will take over, have a conversation with the caller to capture their full intent, and you'll receive the same push notification, summary, transcript, and assistance.
+Visit your carrier’s website to find the correct codes to dial. Set up the following two types:
+- "Conditional Call Forwarding" when unanswered
+- "Conditional Call Forwarding" when busy
+
+Depending on your SIM card, forward your calls to one of those numbers
+- USA: +14156875513
+- UK: +447480487697
+- France: +33757593937
+- Canada: +14388021842
