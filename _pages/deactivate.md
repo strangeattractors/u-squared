@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Conditional Call Forwarding: Deactivation
+title: Conditional Call Forwarding deactivation
 include_in_header: false
 ---
 
