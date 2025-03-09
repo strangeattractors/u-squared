@@ -15,5 +15,5 @@ Visit your carrier's website to find the correct codes to dial. Set up the follo
 Depending on your country, conditionally forward your calls to one of these numbers:
 - USA: +14156875513
 - UK: +447480487697
-- France: +33757593937
+- France: +33756796726
 - Canada: +14388021842
