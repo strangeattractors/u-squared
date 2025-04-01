@@ -11,4 +11,4 @@ During the on-boarding we can tap the "Activate Voice Forwarding" button. Otherw
 
 ## Q: How to deactivate conditional voice forwarding?
 
-Go to settings and click "Dectivate Voice Forwarding".
+Go to settings and click "Deactivate Voice Forwarding".
