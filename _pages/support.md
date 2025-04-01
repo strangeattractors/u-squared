@@ -6,4 +6,4 @@ include_in_header: true
 
 # Support
 
-Please email us at info@strange-attractor.com
+Please email us at support@strange-attractor.com
