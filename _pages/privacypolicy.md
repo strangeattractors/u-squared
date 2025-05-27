@@ -6,11 +6,13 @@ include_in_header: true
 
 # Privacy Policy for U^2 by Strange Attractor Technologies Inc.
 
-**Last updated:** March 28, 2025
+**Last updated:** May 26, 2025
 
 Please read our privacy policy carefully before using our application.
 
-At Strange Attractor Technologies Inc, we are committed to protecting your privacy and ensuring the security of your personal information. This Privacy Policy outlines how we collect, use, and protect your information when you use our AI voice cloning app, U^2.
+At Strange Attractor Technologies Inc, we are committed to protecting your privacy and ensuring the
+security of your personal information. This Privacy Policy outlines how we collect, use, and protect your
+information when you use our AI voice cloning app, U².
 
 ## 1. Information We Collect
 
@@ -52,7 +54,13 @@ We do not sell or rent your personal information to third parties. We may share 
 ## 5. Data Security
 We implement reasonable security measures to protect your personal information from unauthorized access, use, or disclosure. However, no method of transmission over the internet or electronic storage is completely secure, and we cannot guarantee absolute security.
 
-## 6. Your Rights
+## 6. Use of Google Workspace APIs
+We use Google Workspace APIs to enable certain app functionalities. However, we do not use any data
+obtained through Google Workspace APIs to develop, improve, or train generalized or non-personalized
+artificial intelligence (AI) or machine learning (ML) models. Your Workspace data is only used to provide
+the specific services you have requested and in accordance with this Privacy Policy.
+
+## 7. Your Rights
 Depending on your location, you may have the following rights regarding your personal information:
 - Access to your personal data
 - Requesting correction of inaccurate data
@@ -61,13 +69,13 @@ Depending on your location, you may have the following rights regarding your per
 
 To exercise these rights, please contact us by email: [support@strange-attractor.com](mailto:support@strange-attractor.com)
 
-## 7. Minors’ Privacy
+## 8. Minors’ Privacy
 Our app is not intended for minors under the age of 18. We do not knowingly collect personal information from minors. If we become aware that we have collected information from a minor, we will take steps to delete such information.
 
-## 8. Changes to This Privacy Policy
+## 9. Changes to This Privacy Policy
 We may update this Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on our app and updating the effective date. We encourage you to review this Privacy Policy periodically for any updates.
 
-## 9. Contact Us
+## 10. Contact Us
 If you have any questions or concerns about this Privacy Policy, please contact us via email: [support@strange-attractor.com](mailto:support@strange-attractor.com)
 
 Thank you for using U^2!
