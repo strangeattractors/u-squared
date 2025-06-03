@@ -2,7 +2,7 @@
 page_title                                :                                           # Automatically populates with app name if not set and if iOS app ID is set. Otherwise enter manually.
 
 # App Info
-ios_app_id                                : 1234793120                                # Required. Enter iOS app ID to automatically populate name, price and icons (e.g. 718043190).
+ios_app_id                                : 6737294407                                # Required. Enter iOS app ID to automatically populate name, price and icons (e.g. 718043190).
 ios_app_country                           : us                                        # Required outside USA. Enter 2 letter country code as in https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2
 
 appstore_link                             :                                           # Automatically populates if not set and if iOS app ID is set. Otherwise enter manually.
@@ -11,9 +11,9 @@ presskit_download_link                    : # assets/your_press_kit.zip         
                                                                                       # Or upload your press kit file to assets and set path accordingly (e.g. "assets/your_press_kit.zip").
 
 app_icon                                  : assets/appicon.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
-app_name                                  : U^2                                          # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
+app_name                                  : YouSquared - AI Call Secretary                                         # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price                                 :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_description                           : Coming soon to the app store<br>Create an AI clone of yourself to autonomously handle your communication tasks. Start by having your AI clone take/make calls for you, saving you time while adding a touch of fun. Broaden your AI clone’s use over time, to messages, content creation and task management.
+app_description                           : Turn missed calls into qualified leads. YouSquared is your always-on AI Call Secretary, built to handle calls when you’re unavailable - without losing a single opportunity. Whether you’re a busy legal professional, real estate agent, healthcare provider, or small business owner, YouSquared keeps your phone working even when you’re not.
 
 enable_smart_app_banner                   : true                                      # Set to true to show a smart app banner at top of page on mobile devices.
 
