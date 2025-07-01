@@ -45,9 +45,9 @@ If the call is not forwarded correctly, follow these troubleshooting steps:
 
   | Country | Forwarding Number  |
   |---------|-------------------|
-  | USA     | +1 415 687 5513    |
+  | USA     | +1 628 225 4035    |
   | UK      | +44 7480 487697    |
-  | France  | +33 7 5759 3937    |
+  | France  | +33 7 5679 6726    |
   | Canada  | +1 438 802 1842    |
 
 - **Verify your settings:**  
