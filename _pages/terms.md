@@ -325,4 +325,4 @@ Continued use after changes implies acceptance.
 9 White Street  
 APT 211  
 New York, NY 11206  
-📧 **support@strange-attractor.com**
+📧 **yousquared-support@strange-attractor.com**
