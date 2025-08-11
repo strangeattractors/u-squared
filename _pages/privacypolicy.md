@@ -109,7 +109,7 @@ Depending on your location, you may have the following rights regarding your per
 - Opting out of marketing communications  
 
 To exercise these rights, please contact us at:  
-📧 **support@strange-attractor.com**
+📧 **yousquared-support@strange-attractor.com**
 
 ---
 
