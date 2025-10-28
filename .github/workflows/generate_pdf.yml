@@ -20,18 +20,15 @@ jobs:
         with:
           node-version: 20
 
-      # md-to-pdf uses headless Chrome (via Puppeteer) — lightweight & fast
-      - name: Convert privacy policy to PDF
+      - name: Convert Markdown to PDF and move to _tmp
         run: |
-          mkdir -p pdfs
-          npx --yes md-to-pdf "_pages/privacypolicy.md" --dest "pdfs/privacy-policy.pdf"
-
-      - name: Convert terms to PDF
-        run: |
-          npx --yes md-to-pdf "_pages/terms.md" --dest "pdfs/terms.pdf"
+          npx --yes md-to-pdf "_pages/privacypolicy.md"
+          npx --yes md-to-pdf "_pages/terms.md"
+          mv "_pages/privacypolicy.pdf" "_tmp/privacy-policy.pdf"
+          mv "_pages/terms.pdf" "_tmp/terms.pdf"
 
       - name: Upload PDFs
         uses: actions/upload-artifact@v4
         with:
           name: legal-pdfs
-          path: pdfs/
+          path: _tmp/
