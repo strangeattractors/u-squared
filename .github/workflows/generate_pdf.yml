@@ -1,0 +1,37 @@
+name: Markdown → PDF (privacy + terms)
+
+on:
+  push:
+    branches: [ master, main ]
+    paths:
+      - "_pages/privacypolicy.md"
+      - "_pages/terms.md"
+  workflow_dispatch: {}
+
+jobs:
+  build-pdfs:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      # md-to-pdf uses headless Chrome (via Puppeteer) — lightweight & fast
+      - name: Convert privacy policy to PDF
+        run: |
+          mkdir -p pdfs
+          npx --yes md-to-pdf "_pages/privacypolicy.md" --dest "pdfs/privacy-policy.pdf"
+
+      - name: Convert terms to PDF
+        run: |
+          npx --yes md-to-pdf "_pages/terms.md" --dest "pdfs/terms.pdf"
+
+      - name: Upload PDFs
+        uses: actions/upload-artifact@v4
+        with:
+          name: legal-pdfs
+          path: pdfs/
