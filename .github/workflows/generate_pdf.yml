@@ -15,17 +15,29 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
-      - name: Setup Node
-        uses: actions/setup-node@v4
-        with:
-          node-version: 20
-
-      - name: Convert Markdown to PDF and move to _tmp
+      # Install Pandoc + a minimal TeX toolchain for PDF output
+      - name: Install Pandoc + TeX
         run: |
-          npx --yes md-to-pdf "_pages/privacypolicy.md"
-          npx --yes md-to-pdf "_pages/terms.md"
-          mv "_pages/privacypolicy.pdf" "_tmp/privacy-policy.pdf"
-          mv "_pages/terms.pdf" "_tmp/terms.pdf"
+          sudo apt-get update
+          sudo apt-get install -y pandoc texlive-xetex texlive-fonts-recommended texlive-latex-recommended texlive-latex-extra
+
+      - name: Build PDFs into _tmp
+        run: |
+          # Ensure target dir exists (you said you'll create it, this is just harmless safety)
+          mkdir -p _tmp
+
+          # Convert Markdown (supports Jekyll YAML front matter)
+          pandoc "_pages/privacypolicy.md" \
+            --from=markdown+yaml_metadata_block \
+            --pdf-engine=xelatex \
+            --toc \
+            -o "_tmp/privacy-policy.pdf"
+
+          pandoc "_pages/terms.md" \
+            --from=markdown+yaml_metadata_block \
+            --pdf-engine=xelatex \
+            --toc \
+            -o "_tmp/terms.pdf"
 
       - name: Upload PDFs
         uses: actions/upload-artifact@v4
