@@ -202,9 +202,67 @@ We retain personal information only for as long as necessary to fulfil the purpo
 
 We implement administrative, technical, and physical safeguards—including encryption, access controls, and regular auditing—to protect personal information against loss, theft, unauthorised access, disclosure, or modification.
 
-**7. Third-Party Service Providers**
+**7. Third-Party AI Services and Data Processing**
 
-We may share limited personal information with trusted third-party service providers (such as cloud hosting, telecommunications, and payment processing vendors) who assist in operating our services. These providers are contractually required to protect personal information to a standard comparable to that required under PIPEDA and may use the information only for the purposes of performing services on our behalf.
+  YouSquared uses third-party artificial intelligence (AI) and cloud services to provide its core functionality, including AI-powered call answering, speech transcription, voice
+  synthesis, call analysis, and messaging. By using YouSquared, you acknowledge and agree that certain personal data will be transmitted to and processed by the third-party service
+  providers described below.
+
+  ### Data We Collect
+
+  When you use YouSquared, we may collect the following categories of personal data:
+
+  - **Call audio recordings**: Audio from incoming and outgoing calls handled by the AI assistant
+  - **Call transcripts**: Text generated from call audio via speech-to-text processing
+  - **Caller and contact information**: Names, phone numbers, company names, and other details provided during calls or entered by you
+  - **Voice samples**: Recordings you provide to customize your AI assistant's voice
+  - **Phone numbers**: Your phone number and the phone numbers of people who call you
+  - **Calendar data**: Schedule and availability information, if you enable calendar integration
+  - **Interaction history**: Records of past calls, messages, and contact interactions
+
+  ### How We Share Data with Third-Party AI Providers
+
+  To deliver the services described above, we share your data with the following categories of third-party providers:
+
+  **Speech-to-Text (Transcription)**
+  Your call audio recordings are sent to transcription providers to convert speech into text. Providers: Deepgram, OpenAI.
+
+  **AI Language Models (Call Analysis and Processing)**
+  Call transcripts, conversation context, and caller information are sent to AI language model providers for call analysis, contact information extraction, spam detection, urgency
+  assessment, and draft message generation. Providers: Google (Vertex AI / Gemini), OpenAI.
+
+  **Text-to-Speech (Voice Synthesis)**
+  Text content is sent to voice synthesis providers to generate spoken AI responses during calls. Providers: OpenAI, ElevenLabs, Cartesia.
+
+  **Real-Time Communication**
+  Real-time call audio and session data are transmitted through our real-time communication provider to facilitate live AI-powered call handling. Provider: LiveKit.
+
+  **Telephony and Messaging**
+  Phone numbers and message content are shared with our telephony provider for call routing, SMS delivery, spam detection, and caller identification. Provider: Twilio.
+
+  ### Purpose of Data Processing
+
+  We share your data with the third-party providers listed above solely for the following purposes:
+
+  - Answering and managing your incoming calls via our AI assistant
+  - Transcribing call audio into text
+  - Generating natural-sounding AI voice responses
+  - Analyzing calls to determine urgency, caller satisfaction, and spam likelihood
+  - Extracting and organizing contact information from conversations
+  - Drafting SMS replies and summaries on your behalf
+  - Routing calls and delivering text messages
+  - Improving the accuracy and quality of the service
+
+  ### Data Protection by Third Parties
+
+  We require that all third-party service providers maintain appropriate technical and organizational security measures to protect your personal data. These providers process your
+  data in accordance with their respective privacy policies and applicable data protection laws. We select providers that offer protections consistent with or equivalent to those
+  described in this privacy policy.
+
+  ### Data Retention
+
+  Call recordings, transcripts, and associated data are retained for as long as your account is active or as needed to provide the service. You may request deletion of your data at
+  any time by contacting us at yousquared-support@strange-attractor.com.
 
 **8. Contact and Complaints**
 
