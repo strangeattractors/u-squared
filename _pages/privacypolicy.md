@@ -194,7 +194,7 @@ Canadian users have the right to:
 
 ● Request deletion of their personal information where permitted by law.
 
-Requests may be submitted to yousquared-support@strange-attractor.com. We will respond within thirty (30) days as required by PIPEDA.
+Requests may be submitted to support@yousquared.ai. We will respond within thirty (30) days as required by PIPEDA.
 
 **6. Retention and Safeguards**
 
@@ -262,7 +262,7 @@ We implement administrative, technical, and physical safeguards—including encr
   ### Data Retention
 
   Call recordings, transcripts, and associated data are retained for as long as your account is active or as needed to provide the service. You may request deletion of your data at
-  any time by contacting us at yousquared-support@strange-attractor.com.
+  any time by contacting us at support@yousquared.ai.
 
 **8. Contact and Complaints**
 
