@@ -17,15 +17,7 @@ Go to **Profile** > **Activate Call Forwarding** and click "Deactivate."
 
 ### The call forwarding codes didn’t work. How can I set up call forwarding manually?
 
-Visit your carrier’s website to find the correct codes to dial. Depending on your SIM card, forward your calls to one of those numbers
-- USA: +14156875513
-- UK: +447480487697
-- France: +33757593937
-- Canada: +14388021842
-
-Different types of call forwarding require different codes. Set up the following two types:
-- "Conditional Call Forwarding" when unanswered
-- "Conditional Call Forwarding" when busy
+Follow the steps on the [manual setup page]({{ '/forwarding/' | relative_url }}): it lists the number to forward to in each country.
 
 ### What if my carrier doesn’t support call forwarding?
 
