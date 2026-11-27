@@ -7,8 +7,8 @@ include_in_header: false
 
 ## Q: How to activate conditional call forwarding?
 
-During the on-boarding we can tap the "Activate Call Forwarding" button. Otherwise, go to settings and click "Activate Call Forwarding".
+You can turn call forwarding on in the app, either during onboarding or at any time afterward.
 
 ## Q: How to deactivate conditional call forwarding?
 
-Go to settings and click "Deactivate Call Forwarding".
+You can turn call forwarding off in the app at any time.
