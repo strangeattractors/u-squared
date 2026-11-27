@@ -41,14 +41,7 @@ Once these settings are turned off, you can proceed with testing your call forwa
 If the call is not forwarded correctly, follow these troubleshooting steps:
 
 - **Check the call forwarding codes:**  
-  Ensure you have entered the correct forwarding numbers based on your country:
-
-  | Country | Forwarding Number  |
-  |---------|-------------------|
-  | USA     | +1 628 225 4035    |
-  | UK      | +44 7480 487697    |
-  | France  | +33 7 5679 6726    |
-  | Canada  | +1 438 802 1842    |
+  Ensure you have entered the correct forwarding number for your country. The [manual setup page]({{ '/forwarding/' | relative_url }}) lists the number to use in each country.
 
 - **Verify your settings:**  
   Make sure that Live Voicemail, Wi-Fi Calling, and HD Voice are **turned off**, as they can interfere with call forwarding.

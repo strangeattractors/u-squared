@@ -9,11 +9,11 @@ include_in_header: false
 
 ### Why do I need to set up call forwarding?
 
-Call forwarding redirects your missed calls to us. To set it up, you'll need to dial specific numbers that vary by carrier. You can verify if call forwarding is set up correctly by going to **Profile** > **Activate Call Forwarding**.
+Call forwarding redirects your missed calls to us. To set it up, you'll need to dial specific numbers that vary by carrier. You can check whether call forwarding is set up correctly in the app.
 
 ### How can I cancel call forwarding?
 
-Go to **Profile** > **Activate Call Forwarding** and click "Deactivate."
+You can turn call forwarding off in the app.
 
 ### The call forwarding codes didn’t work. How can I set up call forwarding manually?
 
@@ -21,7 +21,7 @@ Follow the steps on the [manual setup page]({{ '/forwarding/' | relative_url }})
 
 ### What if my carrier doesn’t support call forwarding?
 
-Unfortunately, U^2 requires a carrier that supports call forwarding.
+Unfortunately, YouSquared requires a carrier that supports call forwarding.
 
 ### Should I enable call forwarding in my iPhone settings?
 
@@ -34,12 +34,12 @@ Ensure that call forwarding is disabled in your iPhone settings and that "Live V
 ### How can I test if call forwarding is working?
 
 You have two options:
-1. Go to **Profile** > **Activate**, click **Activate**, and follow the instructions. It may take up to one minute for changes to take effect.
-2. Ask a friend to call you, but do not answer. Make sure the call goes to U^2 voicemail.
+1. Turn on call forwarding in the app and follow the instructions. It may take up to one minute for changes to take effect.
+2. Ask a friend to call you, but do not answer. Make sure the call goes to YouSquared voicemail.
 
 ### Does call forwarding cost me money?
 
-Call forwarding itself doesn’t cost money. However, when someone calls you and the call is routed to the U^2 number, you will be charged for the call between you and the U^2 number (minutes will be deducted from your mobile plan). If the U^2 number is local and you have unlimited local minutes, it won’t cost you anything.
+Call forwarding itself doesn’t cost money. However, when someone calls you and the call is routed to the YouSquared number, you will be charged for the call between you and the YouSquared number (minutes will be deducted from your mobile plan). If the YouSquared number is local and you have unlimited local minutes, it won’t cost you anything.
 
 
 

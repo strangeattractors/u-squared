@@ -13,14 +13,9 @@ For each line you want U² to handle, configure two types of conditional forward
 - Forward when **unanswered** (No Answer)
 - Forward when **busy**
 
-Use the YouSquared number for your country:
+The [manual setup page]({{ '/forwarding/' | relative_url }}) lists the number to forward to in each country.
 
-- USA: +1 415 687 5513
-- UK: +44 7480 487697
-- France: +33 7 5759 3937
-- Canada: +1 438 802 1842
-
-Once forwarding is configured in your VoIP portal, return to the app and tap **Setup completed**.
+Once forwarding is configured in your VoIP portal, return to the app to finish setup.
 
 ## Verizon One Talk
 
